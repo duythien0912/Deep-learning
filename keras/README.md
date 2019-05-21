@@ -2,16 +2,16 @@
 
 ## Cài đặt
 
-`$ pip install -r requirements.txt`
+`pip install -r requirements.txt`
 
 ## Sử dụng
 
 ### image input
 
-`$ python detect_gender.py -i <input_image>`
+`python detect_gender.py -i <input_image>`
 
 ### webcam
 
-`$ python detect_gender_webcam.py`
+`python detect_gender_webcam.py`
 
 ### Nguồn: https://github.com/arunponnusamy/gender-detection-keras

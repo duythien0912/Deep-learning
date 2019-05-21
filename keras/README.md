@@ -9,6 +9,7 @@
 ### image input
 
 `python detect_gender.py -i demo1.png`
+
 `python detect_gender.py -i demo2.jpg`
 
 ### webcam
